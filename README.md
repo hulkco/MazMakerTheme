@@ -1,2 +1,2 @@
 # MazMakerTheme
-YET (Yet Another Theme) for Arduino IDE Theme. 
+YET (Yet Another Theme) for Arduino IDE. 
